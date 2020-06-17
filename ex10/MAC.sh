@@ -1,0 +1,3 @@
+#!/bi/bash
+
+ifconfig -a
